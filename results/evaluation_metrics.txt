@@ -1,0 +1,5 @@
+TESLA LSTM MODEL EVALUATION
+===========================
+MAE: 36.7192
+MSE: 1810.4856
+RMSE: 42.5498
